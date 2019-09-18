@@ -1,0 +1,12 @@
+{
+  "photos": [
+    {
+      "image_url": "https://res.cloudinary.com/calamityadam/image/upload/v1568827657/example1/hceaimnvj8azdsvgeynb.png",
+      "id": 7
+    },
+    {
+      "image_url": "https://res.cloudinary.com/calamityadam/image/upload/v1568827974/example1/nlu2wvizh8nu4vvxiraj.png",
+      "id": 8
+    }
+  ]
+}
